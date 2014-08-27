@@ -1,7 +1,10 @@
-$body-bg:		#2c3e50;
-$navbar-inverse-bg:		#bdc3c7;
-$navbar-inverse-link-color:		white;
-$jumbotron-opacity: .5;
-$font-family-serif: Georgia, "Times New Roman", Times, serif;
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,900,400italic,900italic);
+
+$body-bg:		#ccbcab;
+$navbar-inverse-bg:		#402015;
+$navbar-inverse-link-color:		#dbc2a4;
+$jumbotron-color: #91715c;
+$jumbotron-bg: #e5d9ca;
+$font-family-sans-serif: 'Playfair', Georgia, "Times New Roman", Times, serif;
 
 @import 'bootstrap';
