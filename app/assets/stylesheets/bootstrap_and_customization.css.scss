@@ -8,3 +8,11 @@ $jumbotron-bg: #e5d9ca;
 $font-family-sans-serif: 'Playfair', Georgia, "Times New Roman", Times, serif;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
