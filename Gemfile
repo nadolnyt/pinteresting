@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
-
+gem 'devise', '~> 3.1.0rc2'
 
 
 gem 'spring',        group: :development
